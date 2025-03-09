@@ -1,6 +1,9 @@
 1. 
 What I want you to do is convert the given R code into Python code. Use the dataset data_censored.csv, I gave you a image snippet on what the data looks like, it is a file in the same directory as the code. Do it similar to the R code where they did it in a series of steps. Don't give me one big chunk of python code. Separate them similar to how analysis is done in Jupyter notebook. Also have a diagram similar to the diagram I have given you as a final output to check if you were able to successfully change the R code to Python code.
 
+P.S. 
+I tried to do it myself but I didn't get the same results. NEXT TIME I'LL DO IT SUCCESSFULLY TRUST.
+
 2. 
 You've converted R code for Target Trial Emulation (TTE) into Python and need to verify the outputs. Please compare:
 1. Survival Estimates – Do Kaplan-Meier curves, hazard ratios, and risk differences match?
@@ -8,5 +11,5 @@ You've converted R code for Target Trial Emulation (TTE) into Python and need to
 3. Model Outputs – Do regression coefficients, confidence intervals, and p-values align?
 4. Sensitivity Analyses – Are bootstrapped estimates or subgroup results similar?
 
-P.S. 
-I tried to do it myself but I didn't get the same results. NEXT TIME I'LL DO IT SUCCESSFULLY TRUST.
+3.
+I want you to create comprehensive insights and reasoning why you did clustering at weight calculation and used K-means as the clustering to integrate to your converted R code.
